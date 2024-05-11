@@ -1,4 +1,5 @@
 # MERN-stack Mono-Repo sample
+![M](./media/mongo.png) ![E](./media/express.png) ![R](./media/react.png) ![N](./media/node.png)
 
 Welcome to the MERN Stack Mono-Repo Project! This project utilizes the MERN (MongoDB, Express.js, React.js, Node.js) stack to create a full-stack web application for managing bureaus. Below you'll find a detailed overview of the project structure, technologies used, and features implemented.
 
